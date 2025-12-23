@@ -8,14 +8,17 @@
 
 ---
 
-## 🎬 Trailer e Gameplay
+### 📸 Galeria de fotos e Gameplay
 
-Confira abaixo o vídeo demonstrativo das mecânicas de vôlei e a exploração do mundo aberto:
+| 🎬 **ASSISTIR GAMEPLAY** | 🏫 **Vida Escolar** | 🏖️ **Praia e Lazer** |
+|:---:|:---:|:---:|
+| [![Vídeo de Gameplay](fotos/1.png)](https://www.youtube.com/watch?v=C_zlEM7erig) | ![Escola](fotos/2.png) | ![Praia](fotos/3.png) |
+| **🌆 Cidade e Locais** | **🥥 Minigames (Trabalho)** | **🏐 Treino de Vôlei** |
+| ![Cidade](fotos/4.png) | ![Minigames](fotos/5.png) | ![Treino](fotos/6.png) |
+| **📈 Atributos e RPG** | **📚 Estudo e Carreira** | **🏆 Competições** |
+| ![Status](fotos/7.png) | ![Estudo](fotos/8.png) | ![Torneio](fotos/9.png) |
 
-[![Assista ao Gameplay](https://img.youtube.com/vi/C_zlEM7erig/maxresdefault.jpg)](https://youtu.be/C_zlEM7erig)
-> *Clique na imagem acima para assistir ao vídeo no YouTube*
-
----
+> **💡 Dica:** Clique na primeira imagem (ícone de vídeo) para assistir ao trailer do jogo!
 
 ## 📖 Sobre o Projeto
 
