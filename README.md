@@ -43,7 +43,7 @@ O jogo alterna entre dois estilos principais:
 ### 🏐 Partidas de Vôlei
 * **Física Realista:** Sistema de física aplicado à bola para recepções, levantamentos e ataques precisos.
 * **Progressão de RPG:** Melhore seus atributos de força, salto, velocidade e defesa conforme treina na academia ou na areia.
-* **Ambientação:** Quadras que variam de ginásios escolares a arenas de vôlei de praia lotadas.
+* **Ambientação:**Uma cidade brasileira Do Ceara, Com cenarios contendo florestas, praias, cidades e muito mais, e Quadras que variam de ginásios escolares a arenas de vôlei de praia lotadas.
 
 ---
 
