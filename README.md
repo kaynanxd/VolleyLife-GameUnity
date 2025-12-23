@@ -12,7 +12,7 @@
 
 Confira abaixo o vídeo demonstrativo das mecânicas de vôlei e a exploração do mundo aberto:
 
-[![Assista ao Gameplay](https://img.youtube.com/vi/https://youtu.be/C_zlEM7erig/maxresdefault.jpg)](https://youtu.be/C_zlEM7erig)
+[![Assista ao Gameplay](https://img.youtube.com/vi/C_zlEM7erig/maxresdefault.jpg)](https://youtu.be/C_zlEM7erig)
 > *Clique na imagem acima para assistir ao vídeo no YouTube*
 
 ---
