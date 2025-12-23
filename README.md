@@ -10,7 +10,7 @@
 
 ### 📸 Galeria de fotos e Gameplay
 | [![Vídeo de Gameplay](fotos/1.png)](https://www.youtube.com/watch?v=C_zlEM7erig)
-> **💡 Dica:** Clique na primeira imagem (ícone de vídeo) para assistir ao trailer do jogo!
+
 | 🎬 *ASSISTIR GAMEPLAY* | 🏫 *Vida Escolar** | 🏖️ *Praia e Lazer* |
 |:---:|:---:|:---:|
  | ![Escola](fotos/2.png) | ![Praia](fotos/3.png) | ![Torneio](fotos/9.png) |
@@ -18,6 +18,7 @@
 | ![Cidade](fotos/4.png) | ![Minigames](fotos/5.png) | ![Treino](fotos/6.png) |
 | *📈 Atributos e RPG* | *📚 Estudo e Carreira* | 
 | ![Status](fotos/7.png) | ![Estudo](fotos/8.png) | 
+> **💡 Dica:** Clique na primeira imagem (ícone de vídeo) para assistir ao trailer do jogo!
 
 
 
