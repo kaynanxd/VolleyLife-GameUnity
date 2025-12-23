@@ -10,7 +10,7 @@
 
 ### 📸 Galeria de fotos e Gameplay
 | [![Vídeo de Gameplay](fotos/1.png)](https://www.youtube.com/watch?v=C_zlEM7erig)
-| 🎬 *ASSISTIR GAMEPLAY* | 🏫 *Vida Escolar** | 🏖️ *Praia e Lazer* |
+
 |:---:|:---:|:---:|
  | ![Escola](fotos/2.png) | ![Praia](fotos/3.png) | ![Torneio](fotos/9.png) |
 | *🌆 Cidade e Locais* | *🥥 Minigames (Trabalho)* | *🏐 Treino de Vôlei* |
