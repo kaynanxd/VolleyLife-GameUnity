@@ -54,6 +54,8 @@ O jogo alterna entre dois estilos principais:
 | **Engine** | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity) | Desenvolvimento de sistemas e física |
 | **Modelagem 3D** | **Blender** | Criação dos cenários brasileiros |
 | **Modelagem personagems** | **aseprite** | Criação de sprites de personagem originais e animacoes |
+| **animacoes 2d** | **toom boom harmony** | Criacao de cutscenes animadas |
+| **conceitos de cenario e sprites** | **krita** | desenho de esbocos e cenarios |
 | **Programação** | **C#** | Lógica de jogo e IA dos oponentes |
 | **Áudio** | **Audacity** | Efeitos sonoros e trilha sonora ambiente |
 | **Versionamento**| ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | Controle de versão e colaboração |
