@@ -18,7 +18,7 @@
 | *🌆 Cidade e Locais* | *🥥 Minigames (Trabalho)* | *🏐 Treino de Vôlei* |
 | ![Cidade](fotos/4.png) | ![Minigames](fotos/5.png) | ![Treino](fotos/6.png) |
 | *📈 Atributos e RPG* | *📚 Estudo e Carreira* | 
-| ![Status](fotos/7.png) | ![Estudo](fotos/8.png) | 
+| ![Status](fotos/7.png) | ![Estudo](fotos/8.png) |  ![Estudo](fotos/10.png) | 
 
 
 
